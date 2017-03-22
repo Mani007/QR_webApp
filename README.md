@@ -4,7 +4,7 @@ Qr code Application using Flask Framework in Python.
 My setup environment:
 I am using visual studio 2015 (VS2015) community edition along with python tools.
 
-Required packages:
+Required packages
 virtualenv
 Flask
 pillow
