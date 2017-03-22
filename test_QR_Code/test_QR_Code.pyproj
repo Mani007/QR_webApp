@@ -34,6 +34,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="how to setup.txt" />
     <Content Include="requirements.txt" />
     <Content Include="static\content\bootstrap-theme.css" />
     <Content Include="static\content\bootstrap-theme.css.map" />
