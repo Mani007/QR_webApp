@@ -4,7 +4,7 @@ import qrcode
 import qrtools
 
 img1 = qrcode.make('THE QR test')
-img = img1.save("C:/Users/madhu/Documents/GitHub/QRCode/qrflask/qrflask/static/images/myQR.png")
+img = img1.save("C:/Users/madhu/Documents/visualGIT/QR_webApp/test_QR_Code/static/images/myQR.png")
 
 @app.route('/')
 def index():
@@ -14,4 +14,4 @@ def index():
 @app.route('/QR')
 def qrcode():
     """Renders a sample page."""
-    return render_template('index.html') 
+    return render_template('sampleCoupon.html') 

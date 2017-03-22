@@ -1,4 +1,4 @@
-#!c:\entertainment\sujeet\web_test_projects\flask_projects\test_qr_code\test_qr_code\env\scripts\python3.exe
+#!C:\Users\madhu\Documents\visualGIT\QR_webApp\test_QR_Code\env\Scripts\python3.exe
 from __future__ import print_function
 import base64
 import os
