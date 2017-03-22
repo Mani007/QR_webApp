@@ -31,3 +31,4 @@ VI. activate the virtual environment (this line in not required in VS2015)
 VII. run python app.py (this line in not required in VS2015)
 VIII. In VS2015 - don't follow instruction 4,5,6,7 insted directly run the project into default selected browser.
 IX. If the code did not run in VS2015 then just refresh the browser
+That all
