@@ -9,8 +9,7 @@ working_set
 functools
 zipimport
 _is_unpacked_egg
-find_nothing
-msg
+FileMetadata
 empty_provider
 plistlib
 null_ns_handler
@@ -39,7 +38,6 @@ find_distributions
 EggMetadata
 warnings
 find_on_path
-_vendor
 safe_name
 collections
 _set_parent_ns
@@ -71,7 +69,6 @@ operator
 DistInfoDistribution
 SetuptoolsLegacyVersion
 packaging
-extern
 pkgutil
 _by_version_descending
 _initialize
@@ -89,7 +86,7 @@ VersionConflict
 run_main
 PY_MAJOR
 textwrap
-FileMetadata
+find_nothing
 utime
 BINARY_DIST
 isdir

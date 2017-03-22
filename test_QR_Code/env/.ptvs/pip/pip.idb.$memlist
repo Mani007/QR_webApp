@@ -3,9 +3,9 @@ get_summaries
 PipError
 UpdatingDefaultsHelpFormatter
 InstallationError
-__main__
 operations
 models
+__main__
 baseparser
 wheel
 exceptions

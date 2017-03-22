@@ -96,7 +96,6 @@ configparser
 NAME_VERSION_RE
 _ver_info
 match_hostname
-socket_timeout
 codecs
 json
 EXTRA_LIST
@@ -106,7 +105,6 @@ io
 ZipFile
 tempfile
 BaseHTTPSHandler
-chdir
 shutil
 _CHECK_MISMATCH_SET
 threading

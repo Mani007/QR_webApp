@@ -19,7 +19,6 @@ re
 UnpickleableException
 run_setup
 itertools
-GetGeneratePath
 _EXCEPTIONS
 DirectorySandbox
 _clear_modules

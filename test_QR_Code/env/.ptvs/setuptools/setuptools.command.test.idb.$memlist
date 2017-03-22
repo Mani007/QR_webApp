@@ -5,6 +5,7 @@ resource_exists
 ScanningLoader
 contextlib
 os
+NonDataProperty
 six
 _namespace_packages
 itertools
@@ -14,10 +15,11 @@ normalize_path
 test
 Command
 TestLoader
+log
 unittest_main
 operator
-NonDataProperty
-filter
 add_activation_listener
+filter
 resource_listdir
+DistutilsError
 DistutilsOptionError

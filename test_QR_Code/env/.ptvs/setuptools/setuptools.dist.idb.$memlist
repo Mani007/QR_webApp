@@ -1,3 +1,4 @@
+parse_configuration
 _Distribution
 warnings
 check_test_suite
@@ -10,7 +11,7 @@ write_pkg_file
 check_specifier
 packaging
 check_entry_points
-DistutilsOptionError
+DistutilsSetupError
 six
 distutils
 re
@@ -28,7 +29,8 @@ os
 windows_support
 rfc822_escape
 write_pkg_info
-DistutilsSetupError
+DistutilsOptionError
+Distribution_parse_config_files
 DistutilsPlatformError
 numbers
 Feature

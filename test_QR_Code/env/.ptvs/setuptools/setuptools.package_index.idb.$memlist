@@ -11,7 +11,6 @@ distros_for_url
 ContentChecker
 PYPI_MD5
 __all__
-require
 PackageIndex
 open_with_auth
 distros_for_location

@@ -1,4 +1,4 @@
-upload_docs
+alias
 install_egg_info
 install
 saveopts
@@ -10,7 +10,7 @@ setopt
 register
 install_lib
 install_scripts
-alias
+build_clib
 test
 bdist
 upload
@@ -22,4 +22,5 @@ bdist_wininst
 sdist
 sys
 __all__
+upload_docs
 bdist_rpm

@@ -8,9 +8,9 @@ write_arg
 warn_depends_obsolete
 safe_version
 overwrite_arg
-manifest_maker
 unicode_utils
-translate_pattern
+packaging
+manifest_maker
 parse_requirements
 six
 bdist_egg
@@ -34,13 +34,12 @@ yield_lines
 safe_name
 _write_requirements
 DistutilsInternalError
-packaging
+translate_pattern
 os
 write_requirements
 sdist
 write_toplevel_names
 write_pkg_info
-svn_utils
 _FileList
 distutils
 map
